@@ -7,7 +7,7 @@ A React app showcasing a restaurant menu with reusable components and list rende
 
 ## Links
 - **GitHub Repository:** [https://github.com/shahansheikh/restaurantmenu_shahansheikk.git]
-- **Live Website:** [your-deployment-link]
+- **Live Website:** [restaurantmenu-shahansheikk-mphx.vercel.app]
 
 ## Run Locally
 1. Clone the repository
